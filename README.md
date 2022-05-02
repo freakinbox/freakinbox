@@ -13,10 +13,10 @@
 - 💞️ I would be willing to collaborate on small python projects
 - 📫 How to reach me 
 
-	- [Twitter] (https://twitter.com/freakinbox)
-	- [Mastodon] (https://mastodon.social/@freakinbox)
+	- [Twitter](https://twitter.com/freakinbox)
+	- [Mastodon](https://mastodon.social/@freakinbox)
 	- [Website](https://www.freakinbox.com/)
-	- [e-mail] (mailto:freakinboxcorp@gmail.com)
+	- [e-mail](mailto:freakinboxcorp@gmail.com)
 
 <!---
 freakinbox/freakinbox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
